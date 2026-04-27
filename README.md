@@ -1,3 +1,4 @@
+```text
 # PRO-SECURE-ENCRYPTOR-HEX-EDITION-
 Another university course project to prioritize privacy at peak.
 Better run this code in Codeblocks for quicker and cleaner output and functions.
