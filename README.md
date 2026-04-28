@@ -40,6 +40,12 @@ If you are compiling this on a Linux system, you can safely ignore or delete the
 4. The program will output a Hex string (e.g., `230005070a4b3c001b070f`). 
 5. To decrypt, choose **2**, paste the Hex string, and provide the same secret key to get your message back!
 
+## Final Checklist to match coursework guidelines:
+ - Sequence: Your code executes sequentially, taking user inputs and processing them step-by-step.  
+ - Selection: You successfully used if, else if, and else statements to handle the user's menu choices.  
+ - Loop: You implemented a while (true) loop to keep the main menu running until the user exits, as well as for loops to iterate through strings during the    encryption and decryption processes.  
+
+Function: You used custom functions (encryptToHex and decryptFromHex) to handle the core logic.
 ---
 
 Leave your comments for future updates and new fantastic features..... 
